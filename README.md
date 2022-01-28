@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @celenamichaud (she/her)
-- 👀 I’m interested in lots of things, including VR/AR/MR, Quantum Computing, and Aerospace.
-- 💼 I work for Gulfstream Aerospace Corporation, so the majority of my code is proprietary and cannot be shared to GitHub.
-- 🌱 I’m currently studying Computer Systems Engineering at The University of Georgia.
-- 💞️ I’m looking to collaborate on open source projects!
-- 📫 You can reach out to me on LinkedIn at https://www.linkedin.com/in/celenamichaud/
+Hi, I’m Celena (she/her)
+
+I’m interested in lots of things, including XR, Quantum Computing, and Aerospace and I’m currently studying Computer Systems Engineering at The University of Georgia.
+
+LinkedIn: https://www.linkedin.com/in/celenamichaud/
 
 <pre>
                                     |
